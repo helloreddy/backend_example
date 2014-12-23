@@ -1,4 +1,4 @@
-repo-spring-petclinic
-=====================
+spring-petclinic
+================
 
-Project Spring Petclinic
+spring-petclinic repository
