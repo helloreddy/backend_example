@@ -1,4 +1,4 @@
-examples-backend
+backend_example
 ================
 
-only back end
+a repository to gather some projects concern backend side only
